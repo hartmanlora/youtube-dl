@@ -196,7 +196,7 @@ Alternatively, refer to the [developer instructions](#developer-instructions) fo
 ## Download Options:
     -r, --limit-rate RATE                Maximum download rate in bytes per
                                          second (e.g. 50K or 4.2M)
-    -R, --retries RETRIES                Number of retries (default is 10), or
+    -R, --retries RETRIES                Number of retries (default is the 10), or
                                          "infinite".
     --fragment-retries RETRIES           Number of retries for a fragment
                                          (default is 10), or "infinite" (DASH,
